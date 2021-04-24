@@ -8,7 +8,7 @@
 
 [![kata](https://www.codewars.com/users/gravataLonga/badges/micro)](https://www.codewars.com/users/gravataLonga)  
 
-I'm a __Full Stack Developer__ and __Security Specialist__ based in __Portugal__. I'm love with everthing related to open source world.
+I'm a __Full Stack Developer__ and __Security Specialist__ from __Portugal__. I'm love with everthing related to open source world.
 Currently i'm learning Golang! Send me a hello! :)  
 
 * 💼 Currently working at [Creative Code Solutions](https://www.creativecodesolutions.pt/) <br/>
@@ -30,10 +30,8 @@ Currently i'm learning Golang! Send me a hello! :)
 ## Libraries/Projects already releases  
 
  - [PSR-11 Container PHP](https://github.com/gravataLonga/container)  
- - [Native Mobile Application](https://github.com/gravataLonga/calculator-nativescript)  
- - [Forum made with Laravel](https://github.com/gravataLonga/laravel-forum-tdd)  
- - [Bash Aliases - Personal](https://github.com/gravataLonga/bash.d)  
- - [Shorter of Url - Pitly](https://github.com/gravataLonga/pitly)  
+ - [Hydrator](https://github.com/gravataLonga/hydrator)  
+ - [Driver Manager](https://github.com/gravataLonga/driver-manager). 
 
 ## Sponcers
 
