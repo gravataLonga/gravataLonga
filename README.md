@@ -11,21 +11,21 @@
 I'm a __Full Stack Developer__ and __Security Specialist__ from __Portugal__. I'm love with everthing related to open source world.
 Currently i'm learning Golang! Send me a hello! :)  
 
-* 💼 Currently working at [Creative Code Solutions](https://www.creativecodesolutions.pt/) <br/>
+* 💼 Currently working at [Cre🎲ative Code Solutions](https://www.creativecodesolutions.pt/) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.linkedin.com/in/jonathanfontes/)<br/>
 * ✍🏻 I wrote dev articles on [jonathan.pt/blog](https://jonathan.pt/blog) <br/>
 * 📫 Contact me [@gravataLonga](https://twitter.com/gravatalonga)
 
 ## My skills
 
- - PHP more than 10 years ☺️   
- - Javascript more than 8 years  
- - Golang baby step, ~= 2 years 🤩  
- - CSS more than 10 years  
- - C# making my first coding already in production :) (less than 1 year) 🤓  
- - Shell / Bash more than 5 years  
- - Understand everthing about dockers, continues integration and continues delivery.  
- - Making my first game on Unity ♥️
+ - PHP more than 10 years ❤️   
+ - Javascript more than 8 years 🐝  
+ - Golang proficient 😊  
+ - CSS more than 10 years 💇‍♂️  
+ - C# nerd 🤓  
+ - Shell / Bash 🛠
+ - Understand everthing about dockers, continues integration and continues delivery. 🏃‍♂️  
+ - Making my first game on Unity 🎲
 
 ## Libraries/Projects already releases  
 
