@@ -27,7 +27,7 @@ Currently i'm learning Golang! Send me a hello! :)
  - Understand everthing about dockers, continues integration and continues delivery. 🏃‍♂️  
  - Making my first game on Unity 🎲
 
-## Libraries/Projects already releases  
+## Libraries already releases  
 
  - [PSR-11 Container PHP](https://github.com/gravataLonga/container)  
  - [Hydrator](https://github.com/gravataLonga/hydrator)  
