@@ -11,7 +11,7 @@
 I'm a __Full Stack Developer__ and __Security Specialist__ from __Portugal__. I'm love with everthing related to open source world.
 Currently i'm learning Golang! Send me a hello! :)  
 
-* 💼 Currently working at [Cre🎲ative Code Solutions](https://www.creativecodesolutions.pt/) <br/>
+* 💼 Currently working at [Crative Code Solutions](https://www.creativecodesolutions.pt/) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.linkedin.com/in/jonathanfontes/)<br/>
 * ✍🏻 I wrote dev articles on [jonathan.pt/blog](https://jonathan.pt/blog) <br/>
 * 📫 Contact me [@gravataLonga](https://twitter.com/gravatalonga)
