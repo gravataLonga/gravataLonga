@@ -21,14 +21,15 @@ Currently i'm learning Golang! Send me a hello! :)
  - PHP more than 10 years ❤️   
  - Javascript more than 8 years 🐝  
  - Golang proficient 😊  
- - CSS more than 10 years 💇‍♂️  
+ - I'm eating CSS at breakfast 💇‍♂️  
  - C# nerd 🤓  
  - Shell / Bash 🛠
- - Understand everthing about dockers, continues integration and continues delivery. 🏃‍♂️  
- - Making my first game on Unity 🎲
+ - knowledge in Docker 🏃‍♂️  
+ - Bitbucket Pipelines and Github Actions lover 😆  
 
 ## Libraries already releases  
 
+ - [Ninja Programming Language](https://github.com/gravataLonga/ninja)  
  - [PSR-11 Container PHP](https://github.com/gravataLonga/container)  
  - [Hydrator](https://github.com/gravataLonga/hydrator)  
  - [Driver Manager](https://github.com/gravataLonga/driver-manager). 
