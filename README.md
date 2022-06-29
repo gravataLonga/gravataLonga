@@ -27,7 +27,7 @@ Currently i'm learning Golang! Send me a hello! :)
  - knowledge in Docker 🏃‍♂️  
  - Bitbucket Pipelines and Github Actions lover 😆  
 
-## Libraries already releases  
+## Libraries released   
 
  - [Ninja Programming Language](https://github.com/gravataLonga/ninja)  
  - [PSR-11 Container PHP](https://github.com/gravataLonga/container)  
