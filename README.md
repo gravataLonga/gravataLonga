@@ -18,7 +18,7 @@ Currently i'm building my own [programming language called ninja](https://github
 
 ## My skills
 
- - PHP more than 10 years ❤️   
+ - PHP more than 12 years ❤️   
  - Javascript more than 8 years 🐝  
  - Golang proficient 😊  
  - I'm eating CSS at breakfast 💇‍♂️  
@@ -33,6 +33,20 @@ Currently i'm building my own [programming language called ninja](https://github
  - [PSR-11 Container PHP](https://github.com/gravataLonga/container)  
  - [Hydrator](https://github.com/gravataLonga/hydrator)  
  - [Driver Manager](https://github.com/gravataLonga/driver-manager). 
+
+## Tools/Software  
+ 
+ - [PHPStorm](https://www.jetbrains.com/phpstorm/): Code editor   
+ - [GoLand](https://www.jetbrains.com/go/): Code editor  
+ - [Sublime Text 3/4](https://www.sublimetext.com/): Code editor  
+ - [1Password](https://1password.com/): Password Manager  
+ - [Sequel Ace](https://sequel-ace.com/): Database Manager  
+ - [Brave Browser](https://brave.com/): Browser alternative to Chrome.  
+ - Native Terminal  
+ - [Notion](https://www.notion.so/): Todo/Notes application  
+ - [Valet](https://laravel.com/docs/9.x/valet): Local Server.  
+ - [PHP Monitor](https://github.com/nicoverbruggen/phpmon): Monitor for Valet
+ - [DBngin](https://dbngin.com/): Server for databases  
 
 ## Sponcers
 
