@@ -13,16 +13,16 @@ Currently i'm building my own [programming language called ninja](https://github
 
 * 💼 Currently working at [Crative Code Solutions](https://www.creativecodesolutions.pt/) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.linkedin.com/in/jonathanfontes/)<br/>
-* ✍🏻 I wrote dev articles on [jonathan.pt/blog](https://jonathan.pt/blog) <br/>
+* ✍🏻 My website is been built [jonathan.pt](https://jonathan.pt/) <br/>
 * 📫 Contact me [@gravataLonga](https://twitter.com/gravatalonga)
 
 ## My skills
 
- - PHP more than 12 years ❤️   
- - Javascript more than 8 years 🐝  
+ - PHP ❤️ +15 years   
+ - Javascript 🐝 +11 years 
  - Golang proficient 😊  
  - I'm eating CSS at breakfast 💇‍♂️  
- - C# nerd 🤓  
+ - C# nerd 🤓  (Unity is my secret weapon)
  - Shell / Bash 🛠
  - knowledge in Docker 🏃‍♂️  
  - Bitbucket Pipelines and Github Actions lover 😆  
