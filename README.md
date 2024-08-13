@@ -25,7 +25,9 @@ Currently i'm building my own [programming language called ninja](https://github
  - C# nerd 🤓  (Unity is my secret weapon)
  - Shell / Bash 🛠
  - knowledge in Docker 🏃‍♂️  
- - Bitbucket Pipelines and Github Actions lover 😆  
+ - Bitbucket Pipelines and Github Actions lover 😆
+
+Starting to love Laravel with Livewire and also Alpine.js is underrated, just saying. 🤓  
 
 ## Libraries released   
 
@@ -44,9 +46,10 @@ Currently i'm building my own [programming language called ninja](https://github
  - [Brave Browser](https://brave.com/): Browser alternative to Chrome.  
  - Native Terminal  
  - [Notion](https://www.notion.so/): Todo/Notes application  
- - [Valet](https://laravel.com/docs/9.x/valet): Local Server.  
+ - [Valet](https://laravel.com/docs/valet): Local Server.  
  - [PHP Monitor](https://github.com/nicoverbruggen/phpmon): Monitor for Valet
- - [DBngin](https://dbngin.com/): Server for databases  
+ - [DBngin](https://dbngin.com/): Server for databases
+ - [Browser Arc](https://arc.net): Arc is a browser simplified, as chrome base.  
 
 ## Sponcers
 
