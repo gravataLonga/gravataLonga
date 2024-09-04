@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/jonathanfontes/">Linkedin</a>
 </p>
 
-[![kata](https://www.codewars.com/users/gravataLonga/badges/micro)](https://www.codewars.com/users/gravataLonga)  
-
 I'm a __Full Stack Developer__ and __Security Specialist__ from __Portugal__. I'm love with everthing related to open source world.
 Currently i'm building my own [programming language called ninja](https://github.com/gravataLonga/ninja)! Send me a message if you have any question about any topic.
 
