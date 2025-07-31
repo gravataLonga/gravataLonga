@@ -35,8 +35,9 @@ Starting to love Laravel with Livewire and also Alpine.js is underrated, just sa
  - [Driver Manager](https://github.com/gravataLonga/driver-manager). 
 
 ## Tools/Software  
- 
- - [PHPStorm](https://www.jetbrains.com/phpstorm/): Code editor   
+
+ - [NeoVim](https://neovim.io/): I'm transit to neovim from PHPStorm.
+ - [PHPStorm](https://www.jetbrains.com/phpstorm/): Code editor, still in use but migrating to NeoVim. 
  - [GoLand](https://www.jetbrains.com/go/): Code editor  
  - [Sublime Text 3/4](https://www.sublimetext.com/): Code editor  
  - [1Password](https://1password.com/): Password Manager  
