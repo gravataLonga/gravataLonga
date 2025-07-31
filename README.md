@@ -43,7 +43,8 @@ Starting to love Laravel with Livewire and also Alpine.js is underrated, just sa
  - [1Password](https://1password.com/): Password Manager  
  - [Sequel Ace](https://sequel-ace.com/): Database Manager  
  - [Brave Browser](https://brave.com/): Browser alternative to Chrome.  
- - Native Terminal  
+ - [iTerm2](https://iterm2.com/) Terminal application
+ - [tmux](https://github.com/tmux/tmux/wiki) Terminal Sessions Manager 
  - [Notion](https://www.notion.so/): Todo/Notes application  
  - [Valet](https://laravel.com/docs/valet): Local Server.  
  - [PHP Monitor](https://github.com/nicoverbruggen/phpmon): Monitor for Valet
